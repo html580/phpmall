@@ -3,9 +3,13 @@ DiyGw是一个基于TwoTHink开源的内容管理框架,由Onethink基础上升�
 ## DiyGw提供PHP微信小程序解决方案
 针对小程序特性，提供了商城跟PHP后台进行交互的解决方案，帮助用户高效完成小程序开发，项目持续更新中...。
 感谢以下的作者提供的开源解决方案：
+
 OneThink开源的内容管理框架：https://github.com/liu21st/onethink
+
 diygw开源的内容管理框架：https://github.com/593657688/diygw
+
 ThinkPHP5.0的微信小程序登录流程封装：https://github.com/wulongtao/think-wxminihelper
+
 微信小程序商城前台：https://github.com/skyvow/m-mall
 
 ### 主要特性：
