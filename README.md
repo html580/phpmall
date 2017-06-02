@@ -46,12 +46,12 @@ ThinkPHP5.0的微信小程序登录流程封装：https://github.com/wulongtao/t
    域名/public/install.php
 
 ### 项目截图:
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/1.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/2.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/3.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/4.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/5.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/5.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/1.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/2.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/3.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/4.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/5.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://lib.diygw.com/upload/1/image/20170512/6.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
 
 ### 分享精神
 
